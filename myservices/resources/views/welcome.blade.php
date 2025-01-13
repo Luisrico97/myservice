@@ -135,7 +135,7 @@
 
     <!-- end about section -->
 
-    <!-- who section -->
+    <!-- who sectionss -->
     <section class="who_section">
       <div class="container who_container">
         <div class="who_img-box">
